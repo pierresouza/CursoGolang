@@ -1,0 +1,20 @@
+/*
+
+Variável = localização de memória que um valor pode ser armazenado
+
+
+Varial = valor / item / elemento
+
+
+Cadastro de uma pessoa:
+
+Valores/infos?
+
+//tag + //valor
+nome = 'rafa'
+
+cpf
+email
+idade
+
+*/
